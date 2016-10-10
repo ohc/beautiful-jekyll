@@ -65,3 +65,17 @@ git push origin meupost <=== nome do branch criado anteriormente
 Para aquele que é colaborador, deve agora ir até repositório no github e criar um PR (pull request) clicando em 'Compare & pull request'
 
 ![](/img/pullr.jpg)
+
+Selecionar o repositório:
+
+*NOTE:*> Preste bastante atenção para não criar um PR no repositório errado. Selecione *ohc/ohc.github.io*
+
+![](/img/selectrepo.jpg)
+
+Em seguida, 'Create pull request':
+
+![](/img/createpr.jpg)
+
+Pronto! Seu PR foi enviado e assim que for avaliado será aceito ou negado, mas com a explicação e com instruções de como nós estamos esperando.
+
+Espero que tenha sido útil para aqueles que querem escrever um post na plataforma Jekyll. Para mais informações: [Jekyll](https://jekyllrb.com/)
