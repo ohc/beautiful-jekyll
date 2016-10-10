@@ -61,3 +61,7 @@ git add .
 git commit -m "Meu post sobre como criar posts no site do OHC :)"
 git push origin meupost <=== nome do branch criado anteriormente
 ```
+
+Para aquele que é colaborador, deve agora ir até repositório no github e criar um PR (pull request) clicando em 'Compare & pull request'
+
+![](/img/pullr.jpg)
