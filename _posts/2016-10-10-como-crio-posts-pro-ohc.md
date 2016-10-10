@@ -2,7 +2,7 @@
 layout: post
 title: Como eu crio posts pro OHC?
 tags: [ohc, posts]
-bigimg: /img/codimage.jpg
+bigimg: /img/codimage.png
 ---
 
 Agora que mudamos nossa plataforma para o Jekyll, esperamos que fique mais fácil a colaboração com artigos, afinal agora podemos usar git/markdown e isso dá mais tesão e incentiva mais o pessoal a escrever.
