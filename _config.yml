@@ -23,6 +23,7 @@ description: Hackerspace de Bauru e região
 
 # List of links in the navigation bar
 navbar-links:
+  OHC Conference: "oestehackerconference"
   Sobre nós: "aboutme"
   Mídias:
     - Mail List (google groups): "https://groups.google.com/forum/#!forum/oestehc"
